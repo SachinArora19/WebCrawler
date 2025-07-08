@@ -4,7 +4,7 @@
 
 ### Frontend (React + TypeScript)
 - ✅ Modern React 19 + TypeScript setup with Vite
-- ✅ Tailwind CSS v3 for responsive UI design  
+- ✅ Custom CSS with semantic classes for modern, responsive design
 - ✅ Complete component architecture:
   - `UrlSubmissionForm.tsx` - Submit URLs for crawling
   - `ResultsTable.tsx` - Display crawl results with sorting/filtering
