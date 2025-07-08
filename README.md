@@ -58,6 +58,32 @@ A production-ready, full-stack web crawler application built with React (TypeScr
 - ✅ Automatic token refresh handling
 - ✅ Secure password handling
 
+## 📸 Screenshots
+
+### Login Screen
+![Login Screen](./docs/images/login-screen.png)
+*Secure authentication interface with username and password*
+
+### Dashboard Overview
+![Dashboard](./docs/images/dashboard.png)
+*Main dashboard showing URL submission form and crawl results overview*
+
+### URL Submission
+![URL Submission](./docs/images/url-submission.png)
+*Clean and intuitive URL submission interface*
+
+### Results Table
+![Results Table](./docs/images/results-table.png)
+*Comprehensive results table with sorting, filtering, and bulk operations*
+
+### Detailed Analysis
+![Detail Modal](./docs/images/detail-modal.png)
+*In-depth crawl analysis with interactive charts and broken links report*
+
+### Real-time Statistics
+![Statistics](./docs/images/statistics.png)
+*Live statistics dashboard with data visualization*
+
 ## Quick Start
 
 ### Prerequisites
